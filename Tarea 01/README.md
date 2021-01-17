@@ -22,8 +22,7 @@
    
 6. **Detalles de la entrega**: 
 
-   * **Evidencias capturas de pantalla en carpetas**: *** Capturas**. ( ruta: ...\\CFTIC610-20487-Dev-Azure-Tareas\Tarea 10\\* Capturas).
-
+   * **Evidencias capturas de pantalla en carpetas**: *** Capturas**. ( ruta: ...\\CFTIC610-20487-Dev-Azure-Tareas\Tarea 01\\* Capturas).
+* **Proyectos modificados** : ver carpetas "*** Proyectos**". ( ruta: ...\CFTIC610-20487-Dev-Azure-Tareas\Tarea 01\\* Proyectos).
    
-+ **Proyectos modificados** : ver carpetas "*** Proyectos**". ( ruta: ...\CFTIC610-20487-Dev-Azure-Tareas\Tarea 10\\* Proyectos).
 

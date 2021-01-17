@@ -3,8 +3,8 @@
 2. **Fecha:** entrega 16-1-2021
 
 3. **Laboratorios / Demos**: 
-   - **Demo Módulo 1**: Fichero de Instrucciones: Instructions\20487D_MOD08_DEMO.md. 
-   - **Laboratorio Módulo 1**: Fichero de Instrucciones: Instructions\20487D_MOD08_LAK.md.
+   - **Demo Módulo 8**: Fichero de Instrucciones: Instructions\20487D_MOD08_DEMO.md. 
+   - **Laboratorio Módulo 8**: Fichero de Instrucciones: Instructions\20487D_MOD08_LAK.md.
    
 4. **Resumen del Ejercicio:**
 * **Objetivos**: 

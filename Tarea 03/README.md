@@ -4,8 +4,8 @@
 
 3. **Laboratorios / Demos**: 
    
-   - **Demo Módulo 1**: Fichero de Instrucciones: Instructions\20487D_MOD03_DEMO.md. 
-   - **Laboratorio Módulo 1**: Fichero de Instrucciones: Instructions\20487D_MOD03_LAK.md
+   - **Demo Módulo 3**: Fichero de Instrucciones: Instructions\20487D_MOD03_DEMO.md. 
+   - **Laboratorio Módulo 3**: Fichero de Instrucciones: Instructions\20487D_MOD03_LAK.md
    
 4. **Resumen del Ejercicio:**
 * **Objetivos**: 

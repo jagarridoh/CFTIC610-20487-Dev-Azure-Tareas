@@ -4,8 +4,8 @@
 
 3. **Laboratorios / Demos**: 
    
-   - **Demo Módulo 1**: Fichero de Instrucciones: Instructions\20487D_MOD02_DEMO.md. 
-   - **Laboratorio Módulo 1**: Fichero de Instrucciones: Instructions\20487D_MOD02_LAK.md
+   - **Demo Módulo 2**: Fichero de Instrucciones: Instructions\20487D_MOD02_DEMO.md. 
+   - **Laboratorio Módulo 2**: Fichero de Instrucciones: Instructions\20487D_MOD02_LAK.md
    
 4. **Resumen del Ejercicio:**
 * **Objetivos**: 
@@ -22,5 +22,5 @@
 
    * **Evidencias capturas de pantalla en carpetas**: *** Capturas**. ( ruta: ...\\CFTIC610-20487-Dev-Azure-Tareas\Tarea 02\\* Capturas).
 * **Proyectos modificados** : ver carpetas "*** Proyectos**". ( ruta: ...\CFTIC610-20487-Dev-Azure-Tareas\Tarea 02\\* Proyectos).
-   
+  
 
