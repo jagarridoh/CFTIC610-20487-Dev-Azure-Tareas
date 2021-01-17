@@ -1,6 +1,6 @@
 1. **Nombres y apellidos:** Justo Antonio Garrido Herrador
 
-2. **Fecha:** entrega 16-1-2021
+2. **Fecha:** entrega 17-1-2021
 
 3. **Laboratorios / Demos**: 
    
@@ -14,11 +14,15 @@
      * Test mediante Swagger.
    * Generación de clientes mediante AutoRest.
    * Hospedaje en IIS y IIS Express.
+   * Crear Controller para API Web, anotaciones  [Route("api/[controller]")],  [ApiController], [HttpGet("{id}")],  [HttpPost],  [HttpPut("{id}")]. Test de API Web desde navegador. 
+   * Crear cliente de API Web desde proyecto de consola .NET Core, enlace a modelo, especificación de version de C#, uso de HttpClient, HttpResponseMessage, PutAsJsonAsync.
    * **Pasos**:  Creación Proyecto .NET Core. Utilización de IIS. 
    
 5. **Dificultad o problemas presentados y como se resolvieron:**  
 
    * Los que vimos en clase.
+   * Creación de proyectos con -f netcoreapp2.1.
+   * La primera llamada a API desde navegador falló y fue por tiempo de inicialización.
    
 6. **Detalles de la entrega**: 
 
